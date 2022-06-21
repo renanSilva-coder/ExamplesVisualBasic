@@ -1,0 +1,30 @@
+C:\Users\Caleum\source\repos\Aprendendo VB\5 - Laços de Repetição\bin\Debug\5 - Laços de Repetição.exe.config
+C:\Users\Caleum\source\repos\Aprendendo VB\5 - Laços de Repetição\bin\Debug\5 - Laços de Repetição.exe
+C:\Users\Caleum\source\repos\Aprendendo VB\5 - Laços de Repetição\bin\Debug\5 - Laços de Repetição.pdb
+C:\Users\Caleum\source\repos\Aprendendo VB\5 - Laços de Repetição\bin\Debug\5 - Laços de Repetição.xml
+C:\Users\Caleum\source\repos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\_5___Laços_de_Repetição.Resources.resources
+C:\Users\Caleum\source\repos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.vbproj.GenerateResource.cache
+C:\Users\Caleum\source\repos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.vbproj.CoreCompileInputs.cache
+C:\Users\Caleum\source\repos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.exe
+C:\Users\Caleum\source\repos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.xml
+C:\Users\Caleum\source\repos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.pdb
+C:\Users\Caleum\source\repos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\_5___Laços_de_Repetição.Frm_Principal_05.resources
+C:\Users\Caleum\source\repos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.vbprojAssemblyReference.cache
+C:\xampp\htdocs\Projetinhos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.exe
+C:\xampp\htdocs\Projetinhos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.xml
+C:\xampp\htdocs\Projetinhos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.pdb
+C:\Users\renan\Documents\Code\Aprendendo VB\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.exe
+C:\Users\renan\Documents\Code\Aprendendo VB\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.xml
+C:\Users\renan\Documents\Code\Aprendendo VB\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.pdb
+C:\Users\renan\source\repos\Aprendendo VB\5 - Laços de Repetição\bin\Debug\5 - Laços de Repetição.exe.config
+C:\Users\renan\source\repos\Aprendendo VB\5 - Laços de Repetição\bin\Debug\5 - Laços de Repetição.exe
+C:\Users\renan\source\repos\Aprendendo VB\5 - Laços de Repetição\bin\Debug\5 - Laços de Repetição.pdb
+C:\Users\renan\source\repos\Aprendendo VB\5 - Laços de Repetição\bin\Debug\5 - Laços de Repetição.xml
+C:\Users\renan\source\repos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.vbprojAssemblyReference.cache
+C:\Users\renan\source\repos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\_5___Laços_de_Repetição.Frm_Principal_05.resources
+C:\Users\renan\source\repos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\_5___Laços_de_Repetição.Resources.resources
+C:\Users\renan\source\repos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.vbproj.GenerateResource.cache
+C:\Users\renan\source\repos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.vbproj.CoreCompileInputs.cache
+C:\Users\renan\source\repos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.exe
+C:\Users\renan\source\repos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.xml
+C:\Users\renan\source\repos\Aprendendo VB\5 - Laços de Repetição\obj\Debug\5 - Laços de Repetição.pdb
